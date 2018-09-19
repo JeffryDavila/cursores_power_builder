@@ -1,2 +1,2 @@
 # cursores_power_builder
-Este es una practica
+Este es una practica by @platzi
